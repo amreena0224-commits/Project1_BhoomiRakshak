@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiRakshak - India Climate Risk & Disaster Platform",
+  "description": "An evidence-based climate-risk awareness, disaster-intelligence, preparedness, and sustainable-action platform for India grounded in IMD, MoES, NDMA, and IPCC data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
